@@ -1,4 +1,4 @@
-# Sky product selector service
+# Product selector service
 
 The service provides backend interface to allow selection of products based on customers location.
 
